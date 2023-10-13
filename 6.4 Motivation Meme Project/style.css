@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+img{
+    border: 2px solid white;
+    margin-left: 400px;
+    margin-top: 150px;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: aqua;
+}
